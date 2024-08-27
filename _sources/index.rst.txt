@@ -1,3 +1,6 @@
+.. meta::
+   :rel=me namespace=pypi.org: example other
+
 Welcome to Lumache's documentation!
 ===================================
 
